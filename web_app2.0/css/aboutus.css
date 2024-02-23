@@ -1,0 +1,23 @@
+body {background-color: rgb(44, 126, 202);}
+h3   {color: black;
+    font-size: 300%;
+  overflow-x: hidden;
+
+   padding:10px; 
+   margin:0px; 
+span {background-color:  rgb(44, 126, 202);
+    color: black;
+    font-size: 200%;
+  overflow-x: hidden;
+
+   padding:10px; 
+   margin:0px}
+   h1   {color: black;
+    font-size: 500%;
+  overflow-x: hidden;
+
+   padding:100px; 
+   margin:10px; 
+}
+
+}
